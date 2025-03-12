@@ -1,0 +1,102 @@
+body{background-color: rgb(17, 45, 98);}
+h1{text-transform: uppercase; color:rgb(255, 255, 255); text-align:center;
+     font-family:'Times New Roman', Times, serif;}
+h2{color:rgb(255, 255, 255);
+margin-left: 20px;}
+body{color:rgb(255, 255, 255);
+margin: left 20px;;}
+p{color:rgb(17, 45, 98); font-family: Arial, Helvetica, sans-serif;
+    font-size:medium;
+background-color: beige;}
+    div{color:rgb(17, 45, 98);background-color:antiquewhite;
+        border: 1px solid white;
+        padding: 10px;;margin: 1;}
+        span.a{display:inline;width:10px;
+            height:10px;
+        padding:1px;
+    border:1px solid rgb(246, 76, 164);
+background-color:rgb(249, 236, 46);}
+a[target]{color: aliceblue;}
+aside{width:600px;
+    padding-left:20px;
+    padding-right:5px;
+    padding-top: 1px;
+    padding-bottom:20px;
+    margin-left: 1px;
+    margin-right:1px;
+    float:right;}
+table{font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse; width: 10px;}
+    td,th{border:1px;
+        text-align:left;
+        padding:2px;}
+        {border:1px solid;
+        text-align:left;
+        padding:8px;}
+    h3{color:rgb(255, 255, 255);}
+
+    div.greece{
+        margin:25px;
+        float:left;
+        width: 180px;
+        height: 180px;
+        border-radius: 20px;
+    }
+    div.greece:hover{
+        border:1px solid rgb(17, 45, 98);
+        background-color:rgb(17, 45, 98) ;
+    }
+    div.greece img{
+        width:100%;
+        height:120px;;
+        border-radius:20px;
+    }
+    div.desc{
+        margin-top: 10px;
+        padding:10px;
+        text-align:center;
+        background-color: rgb(17, 45, 98);
+        color: rgb(255, 255, 255);
+        border-radius: 10px;
+    }
+#img1{ border-radius :20px;
+border:2px solid antiquewhite}
+.flex-container{
+    background-color:rgb(185, 225, 246) ;
+
+}
+.button {
+    background-color: #f2a26c;
+    color: 17, 45, 98;
+    width:100px;
+    Height:20px;
+    padding: 15px 30px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+    animation: pulse 2s infinite;
+    transition: width 2s;
+}
+.button:hover {
+    width: 1200px;
+    transition: width 2s;
+    align-content: center;
+    animation:alternate-reverse;
+    animation-fill-mode:forwards;
+}
+    
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.1);
+    }
+    100% {
+        transform: scale(1);
+    }
+    from {top: 0px; background-color: rgb(255, 255, 255);}
+    to {top: 200px; background-color: rgb(253, 169, 67);}
+}

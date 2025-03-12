@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html><head>
+    <link rel="stylesheet" href="my style.css">
+</head>
+    <style>
+        body
+        p{font-family: Helvetica, sans-serif;
+        font-size:medium;}
+        </style>
+    <body>
+        <h2> Unordered list</h2>
+        <ul>
+            <li> Tea </li>
+            <li> Coffee </li>
+            <li> Milk </li>
+        </ul>
+        <h2> Ordered list</h2>
+        <ol>
+        <li> Tea</li>
+        <li> Coffee</li>
+        <li> Milk</li>
+        </ol>
+    </body>
+</html>

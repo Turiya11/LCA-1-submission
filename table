@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
+
+<h2>A HTML table</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Language</th>
+    <th>Famous dish</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>German</td>
+    <td>Hamburger</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>latin</td>
+    <td>Taco</td>
+    <td>Mexico</td>
+  </tr>
+</table>
+</body>
+</html>
