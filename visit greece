@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="my style.css">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+         </head>
+            <body>
+                <h1>Travel to Greece</h1> <div class="button">Book Now</div>
+                <p>This is a travel guide for Greece!</p>
+                <img id="img1" src="https://lp-cms-production.imgix.net/2024-06/iStock-166471469.jpg?fit=crop&w=3840&auto=format&q=75" 
+                width="650" height="350" margin="10px">
+                
+                
+                  <aside> <div>Greece beckons with its sun-drenched islands, ancient ruins, and Mediterranean charm. From the iconic Acropolis to the dreamy sunsets of Santorini, this enchanting country offers an intoxicating blend of rich history, vibrant culture, and world-renowned cuisine that has captivated travelers for millennia.
+                </div>
+                <h2>Places to Visit</h2>
+                <ul>
+                   <h3> <li>Santorini</li></h3>
+                    <h3><li>Mykonos</li></h3>
+                    <h3><li>Meteora</li></h3> 
+                    <h3><li>Delphi </li></h3>
+                    <h3><li>Crete </li></h3>
+                </ul>
+               
+            </aside>
+                  <br><br><br>
+                  <div class="greece">
+                    <a target="_blank" href="https://www.visitgreece.gr/islands/cyclades/santorini/">
+                        <img src="https://static.wixstatic.com/media/ed36d9_9e529477c91d472bb6b198e3febdd8e0~mv2.jpg/v1/fill/w_980,h_654,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ed36d9_9e529477c91d472bb6b198e3febdd8e0~mv2.jpg"
+                        alt="Santorini" width="600" height="400">
+                    </a>
+                    <div class="desc">Santorini
+                        </div>
+                        </div>
+                 <div class="greece">
+                            <a target="_blank" href="https://www.visitgreece.gr/islands/cyclades/mykonos/">
+                                <img src="https://phoebusmykonos.com/wp-content/uploads/2024/04/Mykonos-71-places-to-visit-1-scaled.jpg"
+                                alt="Mykonos" width="600" height="400">
+                            </a>
+                            <div class="desc">Mykonos
+                                </div>
+                            </div>
+                 <div class="greece">
+                    <a target="_blank" href="https://www.visitgreece.gr/experiences/religious-tourism/meteora-monasteries/">
+                        <img src="https://meteora.com/wp-content/uploads/2023/05/5.jpg"
+                        alt="Meteora" width="600" height="400">
+                    </a>
+                    <div class="desc">Meteora
+                        </div>  
+                 </div> 
+                 <div class="greece">
+                    <a target="_blank" href="https://www.visitgreece.gr/mainland/central-greece/delphi/">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/TempleAtDelphi2015.JPG/1200px-TempleAtDelphi2015.JPG"
+                        alt="Delphi" width="600" height="400">
+                    </a>
+                    <div class="desc">Delphi
+                        </div>  </div>  
+                        <div class="greece">
+                            <a target="_blank" href="https://www.visitgreece.gr/islands/crete/">
+                                <img src="https://www.allincrete.com/wp-content/uploads/2023/03/Spinalonga-Island-Lasithi-Crete-Copyright-Allincrete.com_.jpg"
+                                alt="Crete" width="600" height="400">
+                            </a>
+                            <div class="desc">Crete
+                                </div>   
+                        </div>   
+                        <div class="flex-container">
+                            Experience a virtual tour!
+                            <br>
+                            <div class="button">view more</div>
+                    
+                        </div>
+                        <br><br>
+                        
+                        
+                        
+          
+
+                    
+
+
+            </body> 
+            </html>
